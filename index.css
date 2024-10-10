@@ -1,6 +1,7 @@
 .center{
+    display: flex;
     text-align: center;
     justify-content: center;
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 200px;
 }
