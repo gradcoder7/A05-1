@@ -1,4 +1,12 @@
-.center {
-    color: #967969 !important;
-    text-align: center;
-  }
+.center{
+  color: #967969 !important;
+  text-align: center;
+}
+  
+body{
+  background-image: url(Coffee%20Bean%20Background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
