@@ -1,7 +1,7 @@
 .center{
   color: #301d10 !important;
   /*background-color: #FFDB58;*/
-  background-color: rgba(255, 219, 88, 1);
+  background-color: rgba(255, 219, 88, 0.6);
   text-align: center;
   font-size: 80px;
 }
